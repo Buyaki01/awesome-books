@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 400px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.book-ctn {
+  margin: 10px auto;
+}
+
+hr {
+  margin: 10px 0;
+  width: 150px;
+}
+
+input {
+  margin: 10px 0;
+}
